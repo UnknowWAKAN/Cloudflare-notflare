@@ -1,1 +1,9 @@
+[
+  {
+    "target": "http://0.0.0.0:8000/",
+    "method": "HTTP_FLOOD",
+    "duration_ms": "30000",
+    "req_per_conn": "20"
+  }
 
+]
