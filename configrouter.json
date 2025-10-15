@@ -1,5 +1,5 @@
 {
-  "command": "httpflood",
+  "command": "udpflood",
   "url": "http://0.0.0.0:8000",
   "connections": 50, 
   "duration": 600
